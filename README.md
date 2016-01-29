@@ -9,5 +9,5 @@
 
 => Started proxy.
 => Started MongoDB.
-=> Building for web.browser
+=> Building for os.osx.x86_64
 ```

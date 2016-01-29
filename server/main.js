@@ -1,3 +1,3 @@
-import Github from 'githuhb';
+import github from 'github';
 
-console.log(Github);
+console.log(github);
