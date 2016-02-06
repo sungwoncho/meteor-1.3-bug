@@ -2,12 +2,10 @@
 
 1. Run `npm install` to install `github` npm module
 2. Run `meteor`
-3. Build hangs
+3. Error is thrown
 
 ```
-[[[[[ ~/dev/meteor_projects/meteor-1.3-bug ]]]]]
-
-=> Started proxy.
-=> Started MongoDB.
-=> Building for os.osx.x86_64
+...
+Error: Cannot find module './api/v3.0.0'
+...
 ```
